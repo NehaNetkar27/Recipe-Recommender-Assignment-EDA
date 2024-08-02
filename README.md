@@ -5,6 +5,7 @@ By Meraj Alam and Neha Netkar
 
 ![Uploading image.png…]()
 
+
 OBJECTIVE OF THIS ASSIGNMENT 
 
 
@@ -18,6 +19,8 @@ In this analysis of recipe data shows that the review time since submission and 
 Recipes that are reviewed by users after a long time from the submission date, have less number of steps, less preparation time and less number of ingredients tend to have high ratings of 5. 
 In contrast, the number of ingredients in a recipe is not found to be relevant to the rating. Similarly, the nutrition columns such as calories, fat, sugar, sodium, protein, and fat. and per serving are not found to be relevant in determining the rating of a recipe. 
 The findings of this analysis can be used to inform decisions about recipe development and presentation to users in order to meet their preferences
+
+
 
 
 
