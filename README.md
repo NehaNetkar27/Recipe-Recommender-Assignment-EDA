@@ -1,6 +1,8 @@
-![image](https://github.com/user-attachments/assets/bd6199ff-1664-4a9b-bd8c-3fdacccf3ed0)![image](https://github.com/user-attachments/assets/f713d9a4-a2db-4eaf-b319-49f5073402cb)# Recipe-Recommender-Assignment-EDA
+ Recipe-Recommender-Assignment-EDA
+
 Recipe Recommender Assignment EDA
 By Meraj Alam and Neha Netkar
+
 ![image](https://github.com/user-attachments/assets/028a22a6-d55e-4b96-9951-75a3b7fd1d0d)
 
 OBJECTIVE OF THIS ASSIGNMENT 
