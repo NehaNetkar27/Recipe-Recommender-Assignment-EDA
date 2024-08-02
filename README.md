@@ -5,7 +5,6 @@ By Meraj Alam and Neha Netkar
 
 ![Uploading image.png…]()
 
-
 OBJECTIVE OF THIS ASSIGNMENT 
 
 
